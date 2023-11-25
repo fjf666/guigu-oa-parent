@@ -58,6 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -189,6 +190,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1e46c233-e4fc-475d-91c3-1a92627fdce1" name="Default Changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1694613461724</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -237,7 +239,7 @@
       <workItem from="1699836876329" duration="1705000" />
       <workItem from="1700195316437" duration="2021000" />
       <workItem from="1700443506330" duration="39000" />
-      <workItem from="1700881812689" duration="4865000" />
+      <workItem from="1700881812689" duration="5238000" />
     </task>
     <task id="LOCAL-00001" summary="云尚办公">
       <created>1700885759346</created>
@@ -253,7 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700895709326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="云尚办公">
+      <created>1700896654987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700896654987</updated>
+    </task>
+    <task id="LOCAL-00004" summary="云尚办公">
+      <created>1700896662516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700896662516</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +291,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="云尚办公" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Deployment" timestamp="1700896792296">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1700896792296" />
     <state x="121" y="0" key="#Project_Structure" timestamp="1699836898872">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -291,6 +311,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="394" y="206" width="493" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1700195345096" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1700896836646">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1700896836646" />
     <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1700895652708">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -299,30 +323,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="447" y="259" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1700884324319" />
-    <state x="486" y="238" key="Github.ShareDialog" timestamp="1700885977882">
+    <state x="486" y="238" key="Github.ShareDialog" timestamp="1700896716451">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="486" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1700885977882" />
+    <state x="486" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1700896716451" />
     <state x="306" y="35" key="Github.UntrackedFilesDialog" timestamp="1700884381359">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="306" y="35" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1700884381359" />
-    <state width="1237" height="232" key="GridCell.Tab.0.bottom" timestamp="1700885820386">
+    <state width="1237" height="232" key="GridCell.Tab.0.bottom" timestamp="1700896670243">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="232" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1700885820386" />
-    <state width="1237" height="232" key="GridCell.Tab.0.center" timestamp="1700885820386">
+    <state width="1237" height="232" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1700896670243" />
+    <state width="1237" height="232" key="GridCell.Tab.0.center" timestamp="1700896670243">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="232" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1700885820386" />
-    <state width="1237" height="232" key="GridCell.Tab.0.left" timestamp="1700885820386">
+    <state width="1237" height="232" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1700896670243" />
+    <state width="1237" height="232" key="GridCell.Tab.0.left" timestamp="1700896670243">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="232" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1700885820386" />
-    <state width="1237" height="232" key="GridCell.Tab.0.right" timestamp="1700885820386">
+    <state width="1237" height="232" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1700896670243" />
+    <state width="1237" height="232" key="GridCell.Tab.0.right" timestamp="1700896670243">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="232" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1700885820386" />
+    <state width="1237" height="232" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1700896670243" />
     <state width="1237" height="232" key="GridCell.Tab.1.bottom" timestamp="1700884552600">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -367,6 +391,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1696770047141" />
+    <state x="485" y="252" key="VCS.ChangelistChooser" timestamp="1700896765977">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="485" y="252" key="VCS.ChangelistChooser/0.0.1280.680@0.0.1280.680" timestamp="1700896765977" />
+    <state x="471" y="209" key="VCS.EditChangelistDialog" timestamp="1700896818056">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="471" y="209" key="VCS.EditChangelistDialog/0.0.1280.680@0.0.1280.680" timestamp="1700896818056" />
+    <state x="425" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1700896836613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1700896836613" />
     <state x="56" y="0" key="new project wizard" timestamp="1697534707153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
