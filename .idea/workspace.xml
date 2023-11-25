@@ -239,7 +239,7 @@
       <workItem from="1699836876329" duration="1705000" />
       <workItem from="1700195316437" duration="2021000" />
       <workItem from="1700443506330" duration="39000" />
-      <workItem from="1700881812689" duration="5238000" />
+      <workItem from="1700881812689" duration="5570000" />
     </task>
     <task id="LOCAL-00001" summary="云尚办公">
       <created>1700885759346</created>
@@ -269,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700896662516</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="云尚办公">
+      <created>1700896857249</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700896857249</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,6 +406,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="471" y="209" key="VCS.EditChangelistDialog/0.0.1280.680@0.0.1280.680" timestamp="1700896818056" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1700896873634">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1700896873634" />
     <state x="425" y="253" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1700896836613">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
